@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 Hanaya Shop
 
 <details>
@@ -1282,3 +1283,7 @@ hanaya-shop/
       </tr>
    </table>
 </div>
+=======
+# Hanaya-Shop-Test
+test
+>>>>>>> 4a43c8e8d0fe1ea2d0fa71fca59bb14590fe3f44
